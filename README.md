@@ -15,3 +15,18 @@ Todo List App with Firebase as BE
   <img src="https://github.com/by-cho/to-do-list/assets/149221715/191963ce-3869-4f94-974b-879290fe51fa" width="550" height="350" style="margin-right: 20px;">
   <p>값이 변화 함에 따라 Firebase의 내용도 update해주고 삭제 기능 구현</p>
 </div>
+
+## Project Info
+**Project Team** : Byoungyoon Cho
+
+
+**Project duration** : 2023-11-16 ~ 2023-11-20 (5days)
+
+
+**Project Skills** : FE (Flutter) | BE (Firebase) | SM (Provider)
+
+
+**Project MVP** : 
+1. Social login (w.KaKao)
+2. state management (w.Provider && riverpod)
+3. Todo list CRUD (w.Firebase)
